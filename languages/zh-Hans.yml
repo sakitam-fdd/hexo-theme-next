@@ -47,6 +47,8 @@ page:
 
 footer:
   powered: "由 %s 强力驱动"
+  record: '京ICP备18015672号-1'
+  recordLink: 'http://beian.miit.gov.cn'
   theme: 主题
 
 counter:
